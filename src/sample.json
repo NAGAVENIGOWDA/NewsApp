@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 34,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Ukraine war: Four killed as Russian strike hits apartments in western city Lviv - BBC",
+      "description": "Another 32 people, including a child, are injured in the attack on the western Ukrainian city.",
+      "url": "https://www.bbc.com/news/world-europe-66117111",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1D6A/production/_130303570_c1e767e3b468e7a60367dd9fb52fdeee036e30c4.jpg",
+      "publishedAt": "2023-07-06T05:50:01Z",
+      "content": "Media caption, Watch: Lviv apartments turned to rubble by rocket fire\r\nA Russian rocket has hit an apartment building in the western Ukrainian city of Lviv, killing at least four people, Ukraine's in… [+2181 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Andrew deGrandpre",
+      "title": "U.S. Navy says it foiled Iran's attempt to seize oil tankers - The Washington Post",
+      "description": "The U.S. Navy said that it thwarted efforts by Iran to commandeer two commercial oil tankers off Oman, and that one attempted seizure involved intense gunfire.",
+      "url": "https://www.washingtonpost.com/national-security/2023/07/05/us-navy-iran-video-tankers/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/EHPYEXDPRGBEUSFB3NKFVAIUMU.JPG&w=1440",
+      "publishedAt": "2023-07-06T04:20:25Z",
+      "content": "Comment on this story\r\nComment\r\nThe U.S. Navy said Wednesday that it had thwarted efforts by Irans military to commandeer two commercial oil tankers off Oman, and that one of the attempted seizures i… [+2112 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Athletic"
+      },
+      "author": "Jared Weiss",
+      "title": "Exclusive: Grant Williams talks Dallas Mavs trade, leaving Boston Celtics behind - The Athletic",
+      "description": "Grant Williams spoke to The Atheltic shortly after joining the Dallas Mavericks in a sign-and-trade Wednesday.",
+      "url": "https://theathletic.com/4669565/2023/07/06/grant-williams-dallas-mavs-trade-boston-celtics/",
+      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/07/05234755/GettyImages-1487412829-scaled.jpg",
+      "publishedAt": "2023-07-06T04:18:00Z",
+      "content": "Grant Williams has packed up his apartment before. He had a small apartment in Boston when he was first drafted, then saved up enough money to move into a nicer spot.\r\nBut this time was different. He… [+7375 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": "https://www.facebook.com/bbcnews",
+      "title": "Threads: Instagram launches app to rival Twitter - BBC",
+      "description": "Mark Zuckerberg is hoping his Instagram-linked app will beat Twitter on numbers.",
+      "url": "https://www.bbc.com/news/technology-66112648",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/181FA/production/_130301889_2.flowscreens-english.png",
+      "publishedAt": "2023-07-06T04:09:55Z",
+      "content": "Meta chief Mark Zuckerberg has said that the company's newly-launched Threads app aims to outrival Twitter.\r\nExperts say Threads could attract Twitter users unhappy with recent changes to the platfor… [+4737 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Sarah Rumpf-Whitten",
+      "title": "Winning numbers released for $546 M Powerball jackpot - Fox Business",
+      "description": "Powerball lottery jackpot winning numbers were drawn Wednesday night and it has a jackpot of $546 million with a cash option of $282 million.",
+      "url": "https://www.foxbusiness.com/markets/winning-numbers-released-546-m-powerball-jackpot",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/01/0/0/Powerball-Tix.jpg?ve=1&tl=1",
+      "publishedAt": "2023-07-06T04:08:58Z",
+      "content": "The numbers are in for the Wednesday, July 5, Powerball lottery jackpot worth an estimated $546 million, with a cash option of $282.0 million.\r\nThe winning numbers, drawn Wednesday, July 5, were 17, … [+1980 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "ZEN SOO, Associated Press",
+      "title": "Coco Lee, Hong Kong singer and songwriter who had international success, dies at 48 - KTLA Los Angeles",
+      "description": "HONG KONG (AP) — Coco Lee, a Hong Kong-born singer and songwriter who had a highly successful career in Asia, has died by suicide, her siblings said Wednesday. She was 48. The star had been suffering from depression for several years, Lee’s elder sisters Caro…",
+      "url": "https://ktla.com/entertainment/ap-hong-kong-born-singer-coco-lee-dies-by-suicide-at-age-48-her-siblings-say/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/07/64a630d2b13db2.76594509.jpeg?w=1280",
+      "publishedAt": "2023-07-06T03:05:36Z",
+      "content": "HONG KONG (AP) Coco Lee, a Hong Kong-born singer and songwriter who had a highly successful career in Asia, has died by suicide, her siblings said Wednesday. She was 48. \r\nThe star had been suffering… [+3198 chars]"
+    },
+    {
+      "source": {
+        "id": "cbs-news",
+        "name": "CBS News"
+      },
+      "author": "Faris Tanyos",
+      "title": "Video shows Russian fighter jets \"harassing\" U.S. Air Force drones in Syria, officials say - CBS News",
+      "description": "Three MQ-9 drones were conducting a mission against ISIS when they were engaged by three Russian fighter jets, according to the U.S. Air Force.",
+      "url": "https://www.cbsnews.com/news/russian-jets-harass-u-s-drones-syria-mq-9-air-force-isis/",
+      "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/07/06/66bf8ae5-5efd-4f16-9b3f-94bd26824615/thumbnail/1200x630/f1c1b1bc35a64a0cfe2e6fd25323dce5/vlcsnap-2023-07-05-17h22m38s538.png?v=46148a329842187f630d57e5930d74c4",
+      "publishedAt": "2023-07-06T01:34:13Z",
+      "content": "U.S. military drones conducting an operation against Islamic State targets in Syria were harassed by Russian fighter jets, authorities said Wednesday. It marks at least the second such incident this … [+2008 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Awful Announcing"
+      },
+      "author": "Brandon Contes",
+      "title": "ESPN announcer made Supreme Court joke during Joey Chestnut’s dominant hot dog-eating performance - Awful Announcing",
+      "description": "There are only so many ways to give play-by-play of a person eating 62 hot dogs, which means ESPN announcers have to get creative.",
+      "url": "https://awfulannouncing.com/espn/supreme-court-joke-joey-chestnut-dominant-hot-dog-eating-performance.html",
+      "urlToImage": "https://cdn1.thecomeback.com/wp-content/uploads/sites/94/2023/07/Screen-Shot-2023-07-05-at-5.17.07-PM-scaled-e1688592378700.jpg",
+      "publishedAt": "2023-07-06T01:01:42Z",
+      "content": "There are only so many ways to give a play-by-play of a person eating 62 hot dogs in ten minutes, which means ESPN announcers have to get creative during the Nathans Hot Dog Eating Contest.\r\nTuesday … [+1702 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KABC-TV"
+      },
+      "author": null,
+      "title": "LA County Sheriff Robert Luna calls video of Lancaster deputy throwing woman to the ground 'disturbing' - KABC-TV",
+      "description": "L.A. County Sheriff Robert Luna responded to the video and insisted that a thorough review of the confrontation will be conducted.",
+      "url": "https://abc7.com/lancaster-bodycam-video-use-of-force-deputy-throws-woman/13465629/",
+      "urlToImage": "https://cdn.abcotvs.com/dip/images/13465804_070523-kabc-6pm-winco-couple-detained-vid-CC-vid.jpg?w=1600",
+      "publishedAt": "2023-07-06T00:58:20Z",
+      "content": "LANCASTER, Calif. (KABC) -- Los Angeles County Sheriff Robert Luna responded Wednesday to video that shows a deputy slamming a woman to the ground, calling it \"disturbing\" and insisting that a thorou… [+3054 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOAT New Mexico"
+      },
+      "author": "Nick Catlin",
+      "title": "Health department recommends spa clients to get blood tested - KOAT New Mexico",
+      "description": "A new report showed a diagnosed HIV case may be linked to an Albuquerque spa.",
+      "url": "https://www.koat.com/article/new-mexico-spa-clients-hiv-blood-test/44451273",
+      "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/vip-spa-1619043969.jpg?crop=0.889xw:0.890xh;0.0767xw,0.0261xh&resize=1200:*",
+      "publishedAt": "2023-07-06T00:15:00Z",
+      "content": "ALBUQUERQUE, N.M. —The New Mexico Department of Health has started to contact former clients of the Albuquerque spa VIP Beauty Salon and Spa.\r\nThis comes after a new report of a diagnosed case of HIV… [+1385 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "Bill Hutchinson",
+      "title": "'Insanity': 4th of July mass shootings leave 20 dead, 126 injured - ABC News",
+      "description": "\"This cannot be the society we are expected to live in,\" an elected leader said.",
+      "url": "https://abcnews.go.com/US/4th-july-mass-shootings-us-kill-13-injure-80/story?id=100702853",
+      "urlToImage": "https://s.abcnews.com/images/US/baltimore-shooting-ap-lv-230702-4_1688305884693_hpMain_16x9_992.jpg",
+      "publishedAt": "2023-07-06T00:00:00Z",
+      "content": "Amid celebrations and fireworks over the long Fourth of July holiday weekend, cities across America were left reeling from the scourge of gun violence as mass shootings occurred at block parties and … [+10493 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Patrick Hearn",
+      "title": "The 20+ best Amazon device deals for early Prime Day: Save up to 75% on Fire TVs and more - Yahoo Life",
+      "description": "We found a 43-inch Omni Series TV for a ridiculous $100 — from $400! — and a $60 Echo Show (it's over 50% off).",
+      "url": "https://www.yahoo.com/lifestyle/amazon-device-prime-day-deals-2023-224212172.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/9kSJG76jWypIR2qPEacE_Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/a4c338e0-1b82-11ee-9677-bdffe35b4ce3",
+      "publishedAt": "2023-07-06T00:00:00Z",
+      "content": "Presto! Enjoy fantastic savings on Amazon devices, courtesy of pre-Prime Day deals. (Photo: Amazon)\r\nPrime Day is less than a week away! Are you ready? Do you have your card number memorized and ship… [+4059 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "YouTube"
+      },
+      "author": null,
+      "title": "Street Fighter 6 - Official Rashid Gameplay Trailer - IGN",
+      "description": "The latest gameplay trailer for Street Fighter 6 puts a spotlight on Rashid. Check it out to see the character in action! Rashid will be unlocked for Year 1 ...",
+      "url": "https://www.youtube.com/watch?v=YS4nqgV70UQ",
+      "urlToImage": "https://i.ytimg.com/vi/YS4nqgV70UQ/maxresdefault.jpg",
+      "publishedAt": "2023-07-05T23:55:59Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CBS Sports"
+      },
+      "author": "",
+      "title": "Mike Trout injury: Angels star undergoes surgery for wrist fracture, expected to be out four to eight weeks - CBS Sports",
+      "description": "Trout departed after fouling off a pitch in the eighth inning",
+      "url": "https://www.cbssports.com/mlb/news/mike-trout-injury-angels-star-undergoes-surgery-for-wrist-fracture-expected-to-be-out-four-to-eight-weeks/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/07/04/0703cca7-bc4c-4200-8cb1-a4d86de25f19/thumbnail/1200x675/d5dcbde61f8f8ac22503e45e3e6271dc/trout-injury-usatsi.png",
+      "publishedAt": "2023-07-05T23:40:00Z",
+      "content": "Los Angeles Angels outfielder Mike Trout suffered a fracture of the hamate bone in his left hand during Monday's game against the San Diego Padres (SD 10, LA 3), the Angels announced. Trout suffered … [+1459 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "HuffPost"
+      },
+      "author": "AP",
+      "title": "Police: 16 Dead, Including 3 Children, In Toxic Gas Leak In South Africa - HuffPost",
+      "description": "Police in South Africa say at least 16 people, including three children, have died in a gas leak.",
+      "url": "https://www.huffpost.com/entry/toxic-gas-leak-south-africa_n_64a5f5cce4b03d308d9281a1",
+      "urlToImage": "https://img.huffingtonpost.com/asset/64a615902400003600c9bf1d.jpeg?cache=o2E1iZUH4l&ops=1200_630",
+      "publishedAt": "2023-07-05T23:06:27Z",
+      "content": "Police stand near a covered body in the Angelo settlement in Boksburg, South Africa, Thursday, July 6, 2023. Police said over a dozen people, including children, have died from a toxic gas leak in th… [+2836 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Samsung's Next Foldable Phones Are Coming on July 26 - CNET",
+      "description": "The company usually announces new foldable phones and smartwatches during its summer Unpacked event.",
+      "url": "https://www.cnet.com/tech/mobile/samsungs-next-foldable-phones-are-coming-on-july-26/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/13ca13db428c925645be3cfe8b42a3dbb9e7ead3/hub/2023/07/05/505ee38b-a7e5-4d86-9d69-b19bb562e67a/unknown-2.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2023-07-05T23:00:00Z",
+      "content": "Fans of Samsung's Galaxy Z Flip and Galaxy Z Fold devices will likely have something new to look forward to later this month. Samsung announced on Wednesday that its next Unpacked event will take pla… [+2820 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": null,
+      "title": "Philadelphia DA on what can be done to curb gun violence - PBS NewsHour",
+      "description": "A mass shooting on the eve of the Fourth of July left five people dead in Philadelphia. It was just one of several U.S. cities that saw violence on the holiday. The suspect, 40-year-old Kimbrady Carriker, was arraigned Wednesday on a host of charges, includin…",
+      "url": "https://www.pbs.org/newshour/show/philadelphia-district-attorney-discusses-what-needs-to-be-done-to-curb-gun-violence",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/07/gun-1024x683.jpg",
+      "publishedAt": "2023-07-05T22:45:00Z",
+      "content": "Larry Krasner:\r\nYou know, the problem with our Republican critics is, we actually tell the truth, and we have the information to back it up.\r\nThey have yet to come forward with anything that shows th… [+1235 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Josh Dinner",
+      "title": "Farewell, Ariane 5! Europe's workhorse rocket launches 2 satellites on final mission - Space.com",
+      "description": "After 27 years of service, Europe's venerable heavy lifter has rocketed into retirement.",
+      "url": "https://www.space.com/ariane-5-rocket-final-launch-success",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/UXt9qBsQiwwgAcjbiS3piB-1200-80.jpg",
+      "publishedAt": "2023-07-05T22:41:41Z",
+      "content": "Europe's workhorse rocket has flown for the final time.\r\nThe powerful Ariane 5 launched today (July 5) on the last-ever mission of its storied career, which began way back in 1996 and now includes 11… [+5153 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "David S. Cloud",
+      "title": "Israeli Researcher Elizabeth Tsurkov Held Hostage by Iran-Linked Militia in Iraq, Israel Says - The Wall Street Journal",
+      "description": "The kidnapping of the Princeton University Ph.D. candidate creates another flashpoint between Israel and Iran",
+      "url": "https://www.wsj.com/articles/israeli-researcher-elizabeth-tsurkov-held-hostage-by-iran-linked-militia-in-iraq-israel-says-c4a38e7d",
+      "urlToImage": "https://images.wsj.net/im-812185/social",
+      "publishedAt": "2023-07-05T22:18:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MMA Fighting"
+      },
+      "author": "MMA Fighting Newswire",
+      "title": "Alexander Volkanovski believes only way he loses to a UFC featherweight is ‘someone landing a lucky punch’ - MMA Fighting",
+      "description": "Alexander Volkanovski previews his UFC 290 title unification bout against Yair Rodriguez and discusses potential bouts with Islam Makhachev and Ilia Topuria.",
+      "url": "https://www.mmafighting.com/2023/7/5/23784827/alexander-volkanovski-believes-only-way-he-loses-to-ufc-featherweight-is-someone-landing-lucky-punch",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/MJUGd1NPai6gXvnPcKVBC62x1a0=/0x0:4082x2137/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24771591/1512662358.jpg",
+      "publishedAt": "2023-07-05T22:00:00Z",
+      "content": "Alexander Volkanovski is well aware of what hes up against at UFC 290.\r\nThe reigning UFC featherweight champion seeks his fifth defense of the belt on Saturday when he takes on interim champ Yair Rod… [+4906 chars]"
+    }
+  ]
+}
