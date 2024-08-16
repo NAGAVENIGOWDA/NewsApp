@@ -10,6 +10,7 @@ function App() {
   let [progress, setProgress] = React.useState(0);
 
   const apiKey = process.env.REACT_APP_NEWS_API;
+  console.log("API Key:", apiKey);
 
   return (
     <BrowserRouter>
