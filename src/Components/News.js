@@ -20,8 +20,11 @@ export function News(props) {
       setLoading(true);
       let data = await fetch(newsUrl);
       let parsedData = await data.json();
+      console.log(parsedData);
       props.setprogress(50);
       setData(parsedData.articles);
+      console.log(parsedData.articles);
+
       setTotalResults(parsedData.totalResults);
       setLoading(false);
       props.setprogress(100);
